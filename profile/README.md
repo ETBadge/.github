@@ -4,10 +4,9 @@ We are going to the largest hosting service provider of Electronic Certificate a
 # Our value
 我們提供基於區塊鏈的數位化證書及勳章發行、持有、展示及驗證，用戶可以通過網頁瀏覽器和手機應用存取相關功能。我們相信被動教學的教育模式正迎來變革，積極自學的社群、學習資源搜索引擎及終身學習生態將是未來教育的基礎設施，我們期望通過建設這些功能搶先攻占二十一世紀新興學習市場的最高山頭。我們進一步跟隨學生步入職場，幫助用戶收集並保管工作經驗證明和推薦信等材料，為用戶生成精彩的電子履歷協助他們得到最好的工作機會。我們最終將會建構人工智能顧問系統依據系統歷史資料為用戶提供貼身的學涯規劃和職業路徑建議。
 
-...教學社群……
+...建設教學社群……
 
 # Our RoadMap
-## Kaos
 <table>
   <tr>
     <td>Steps</td>
@@ -33,7 +32,6 @@ We are going to the largest hosting service provider of Electronic Certificate a
   </tr>
 </table>
 
-## Tracy
 <table>
   <tr>
     <td>Steps</td>
@@ -59,33 +57,6 @@ We are going to the largest hosting service provider of Electronic Certificate a
   </tr>
 </table>
 
-## Sam
-<table>
-  <tr>
-    <td>Steps</td>
-    <td>Value</td>
-    <td>Mission</td>
-  </tr>
-  <tr>
-    <td> <input type="checkbox"> <span style="background-color:black;">blockchain應用</span></td>
-    <td rowspan="5">:question:</td>
-    <td rowspan="5">持續學習, 走出香港</td>
-  </tr>
-  <tr>
-    <td> <input type="checkbox"> <span style="background-color:black;">blockchain應用</span></td>
-  </tr>
-  <tr>
-    <td> <input type="checkbox"> <span style="background-color:black;">blockchain應用</span></td>
-  </tr>
-  <tr>
-    <td> <input type="checkbox"> <span style="background-color:black;">blockchain應用</span></td>
-  </tr>
-  <tr>
-    <td> <input type="checkbox"> <span style="background-color:black;">blockchain應用</span></td>
-  </tr>
-</table>
-
-## David
 <table>
   <tr>
     <td>Steps</td>
